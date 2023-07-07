@@ -137,7 +137,7 @@ class SlidableAction extends StatelessWidget {
     this.foregroundColor,
     this.autoClose = _kAutoClose,
     required this.onPressed,
-    this.icon,
+    required this.icon,
     this.spacing = 4,
     this.label,
     this.borderRadius = BorderRadius.zero,
@@ -161,8 +161,8 @@ class SlidableAction extends StatelessWidget {
   /// {@macro slidable.actions.onPressed}
   final SlidableActionCallback? onPressed;
 
-  /// An icon to display above the [label].
-  final IconData? icon;
+  /// A Widget to display above the [label].
+  final Widget icon;
 
   /// The space between [icon] and [label] if both set.
   ///
@@ -182,11 +182,7 @@ class SlidableAction extends StatelessWidget {
   Widget build(BuildContext context) {
     final children = <Widget>[];
 
-    if (icon != null) {
-      children.add(
-        Icon(icon),
-      );
-    }
+    children.add(icon);
 
     if (label != null) {
       if (children.isNotEmpty) {

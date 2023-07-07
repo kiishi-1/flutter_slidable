@@ -1,0 +1,173 @@
+{
+  "project_info": {
+    "project_number": "570848253396",
+    "firebase_url": "https://cafia-bm-default-rtdb.firebaseio.com",
+    "project_id": "cafia-bm",
+    "storage_bucket": "cafia-bm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570848253396:android:b9ec291a60c079b2a9f241",
+        "android_client_info": {
+          "package_name": "com.cafiamain.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570848253396-045gg2prjvja0uoa88bfi8ve085sf569.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "b556b326614627e5044d644c63b1e0960ac944c3"
+          }
+        },
+        {
+          "client_id": "570848253396-090fgnaorh7um3l491uoo7av7b72sr5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "226355022eae2c2f8fb3189e46695eaf5e5cf8f9"
+          }
+        },
+        {
+          "client_id": "570848253396-1a9rk1ah38r5s73e4clk5ftjnq8irlt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "f03f4c4a53ce640d74f098b08c5e1afdeadf6bc9"
+          }
+        },
+        {
+          "client_id": "570848253396-6vn5v32lqhe50g50icp6hscqmqac5cl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "9637909a0f6a030829223ac36555471b071db2a9"
+          }
+        },
+        {
+          "client_id": "570848253396-85qg105n9cr6g654344nliat15ckrjk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "5bdeb4f0a3e262b7494ac17efb1269663754073e"
+          }
+        },
+        {
+          "client_id": "570848253396-9unfb8m7jtdhg3oro7mt926l1b52u712.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "8f76a56ec34ab6423ee50c45f66b0e0ac2a82bfa"
+          }
+        },
+        {
+          "client_id": "570848253396-cl1ns0me5l8k7gv9gugit6qg721ame0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "a3b4b2d5a9f67b1771bbfcaf67ae8f6f765ae486"
+          }
+        },
+        {
+          "client_id": "570848253396-fs5j5b0hdkfi2g0qamtbqs4o3sndnth4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "5e5f61b587ab4f61df1505c4096c277afd42d595"
+          }
+        },
+        {
+          "client_id": "570848253396-ft1jd655odi6rc67tuip9hsd6eogq6na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "49c68c1e9ca075afb7b1c347c416f1d4a9cfad44"
+          }
+        },
+        {
+          "client_id": "570848253396-pcv6t44uqb8qdbslet734sqasqdhrcu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "857db60d328ad84f590150dbcddd354522ac6241"
+          }
+        },
+        {
+          "client_id": "570848253396-qv37jbkdkgpod0882bte85n2ce468i37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafiamain.app",
+            "certificate_hash": "4af83729df12437a11c02b9e8af5b81d6f14dadf"
+          }
+        },
+        {
+          "client_id": "570848253396-l6nvsvd07mhnttvcopqo3njefd6ac40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWK60Gbf8i9q748N2p8FvFqtWFyE4emc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570848253396-l6nvsvd07mhnttvcopqo3njefd6ac40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570848253396-dur95mh9a1etpml5bqvre5dkoffb545c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cafia.app",
+                "app_store_id": "1571026228"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570848253396:android:5ec5ee813191c033a9f241",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570848253396-l6nvsvd07mhnttvcopqo3njefd6ac40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWK60Gbf8i9q748N2p8FvFqtWFyE4emc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570848253396-l6nvsvd07mhnttvcopqo3njefd6ac40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570848253396-dur95mh9a1etpml5bqvre5dkoffb545c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cafia.app",
+                "app_store_id": "1571026228"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
